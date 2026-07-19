@@ -1,0 +1,3 @@
+-keep class com.jeecbt.app.data.** { *; }
+-keepattributes Signature
+-keepattributes *Annotation*
